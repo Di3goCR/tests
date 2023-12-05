@@ -1,3 +1,4 @@
-script {
-  alert("XSS attack!");
+div {
+ background-image: url("https://media.giphy.com/media/SggILpMXO7Xt6/giphy.gif");
+ background-color: #cccccc;
 }
